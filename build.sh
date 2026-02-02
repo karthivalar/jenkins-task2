@@ -4,4 +4,5 @@
  echo "Hello Jenkins modifed CICD  Pipleline!"
  echo "Build Completed Sucessfully!"
  echo "job running for only modification!"
+ echo "job auto run!"
 
