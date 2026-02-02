@@ -1,6 +1,6 @@
 #!/bin/bash
  echo "Build Started..."
  date
- echo "Hello Jenkins CICD  Pipleline!"
+ echo "Hello Jenkins modifed CICD  Pipleline!"
  echo "Build Completed Sucessfully!"
 
